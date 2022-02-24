@@ -1,10 +1,10 @@
-<h1>Intro to Github and Netlify</h1>
-<hr>
-<p>A learning project @CoderSchool.vn</p>
-<h2>Student: ABC </h2>
-<h2>Features:</h2>
-<ul>
-<li>Create Github repo</li>
-<li>Add project's README using Markdown</li>
-<li>Deploy to Netlify</li>
-</ul>
+# Intro to Github and Netlify
+
+A learning project @CoderSchool.vn
+
+## Student: Tran Cao Dua ##
+## Features: ##
+
+  1. Create Github repo
+  2. Add project's README using Markdown
+  3. Deploy to Netlify
